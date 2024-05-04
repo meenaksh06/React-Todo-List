@@ -8,9 +8,7 @@ This is a simple To-Do application built using ReactJS that allows users to add,
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -61,6 +59,3 @@ npm start
 
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
