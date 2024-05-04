@@ -29,7 +29,7 @@ This is a simple To-Do application built using ReactJS that allows users to add,
 
 1. Clone the repository:
 
-git clone <repository_url>
+git clone https://github.com/meenaksh06/React-Todo-List
 
 
 2. Navigate to the project directory:
